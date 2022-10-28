@@ -1,0 +1,20 @@
+{
+  "title": "Portfolio",
+  "works": {
+    "salesforce":{
+      "title": "Salesforce Journey",
+      "text": "Since 2020, we have been leading the Salesforce Journey, a YouTube channel created to share our knowledge on this platform. We create content with the aim of learning more and more and disseminating features of the number 1 CRM on the market."
+    },
+    "flux": {
+      "title": "Flux",
+      "text": "Flux is a modern and simplified system for restaurants, 100% online. It has product management, payments, withdrawals, cash front and reports, focusing on sales and billing. Product developed by DS4 Tech in operation since 2018.",
+      "title_img": [
+        "Listing",
+        "Insert/Edit",
+        "Report",
+        "Dashboard"
+      ]
+    }
+    
+  } 
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Expertise",
+  "text" : [
+    {
+      "paragraph": "With more than 20 years of expertise from our founders, we have experience in developing and maintaining systems in different market segments, such as:",
+      "list" : [
+        "Banks e Fintechs;",
+        "E-commerce;",
+        "Clothing;",
+        "Restaurant;",
+        "Telephony;",
+        "Football players association;",
+        "Fleet tracking and management;",
+        "Affiliate programs;"
+      ]
+    },
+    {
+      "paragraph": "The diversification of partners and customers adds to DS4 Tech's domain in several modern technologies present in small and large companies, such as cloud computing and Salesforce, making it competitive in different sizes of business segment."
+    },
+    {
+      "paragraph": "Another expertise is in cloud development with a focus on AWS to meet the recurring demands of our customers."
+    },
+    {
+      "paragraph": "As a way of maintaining a high level of quality, some highly qualified in software tests, such as functional, security and performance tests. These expertises keep us qualified to serve leaders from the most diverse segments."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Portifólio",
+  "works": {
+    "salesforce":{
+      "title": "Jornada Salescorce",
+      "text": "Desde 2020 estamos à frente da Jornada Salesforce, um canal no YouTube criado para compartilhar nosso conhecimento nessa plataforma. Criamos conteúdo com o intuito de aprender cada vez mais e divulgar funcionalidades do CRM número 1 do mercado."
+    },
+    "flux": {
+      "title": "Flux",
+      "text": "O Flux é um sistema moderno e simplificado para restaurantes, 100% online. Possui gestão de produtos, pagamentos, retiradas, frente de caixa e relatórios, com foco em vendas e faturamento. Produto desenvolvido pela DS4 Tech em operação desde 2018.",
+      "title_img": [
+        "Listagem",
+        "Inserção/Edição",
+        "Relatório",
+        "Dashboard"
+      ]
+    }
+  } 
+}

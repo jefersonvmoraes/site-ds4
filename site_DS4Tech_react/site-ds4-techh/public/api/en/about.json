@@ -1,0 +1,8 @@
+{ 
+  "title": "About",
+  "text":[
+    {"paragraph": "We provide systems implementation and maintenance solutions in the most varied and current technologies." },
+    {"paragraph": "With experienced professionals, we guarantee the quality and the best experience in the life cycle of your solutions."},
+    {"paragraph": "Our main focus is the Salesforce ecosystem, the #1 CRM on the market. Currently, several companies have been adopting the various clouds of this platform, increasing the demand for professionals trained in the customization and maintenance of Orgs." }
+  ]
+}

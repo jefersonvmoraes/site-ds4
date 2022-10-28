@@ -1,0 +1,33 @@
+.main-content{
+  background-image: url('../../../assets/img/backgrounkds4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  padding-bottom: 100px;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contente{
+  max-width: 800px;
+}
+.title-home{
+  color: #09315c;
+}
+body::-webkit-scrollbar {
+  width: 8px;               
+}
+
+body::-webkit-scrollbar-track {
+  background: white;        
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #282828;    
+  border-radius: 20px;       
+
+}
+
+

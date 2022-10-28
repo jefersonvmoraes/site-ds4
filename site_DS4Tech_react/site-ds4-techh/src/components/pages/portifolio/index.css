@@ -1,0 +1,7 @@
+.main-portifolio{
+  display: flex;
+  flex-wrap: wrap;
+}
+.contente-portifolio{
+  max-width: 600px;
+}
