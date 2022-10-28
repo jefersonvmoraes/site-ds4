@@ -1,0 +1,89 @@
+{
+  "data": {
+    "navbar": {
+      "home": "Home",
+      "about": "About",
+      "expertise": "Expertise",
+      "portifolio": "Portfoliio",
+      "contato": "Contact"
+    },
+    "home": {
+      "title": "We are DS4 Tech",
+      "text": [
+        {
+          "paragraph": "An IT services and products company with experienced professionals in the market and focused on delivery quality."
+        },
+        {
+          "paragraph": "We provide systems implementation and maintenance solutions in the most varied and current technologies. Our main focus is the Salesforce ecosystem, the #1 CRM on the market. Currently, several companies have been adopting the various clouds of this platform, increasing the demand for professionals trained in the customization and maintenance of Orgs."
+        }
+      ]
+    },
+    "about": {
+      "title": "About",
+      "text": [
+        {
+          "paragraph": "We provide systems implementation and maintenance solutions in the most varied and current technologies."
+        },
+        {
+          "paragraph": "With experienced professionals, we guarantee the quality and the best experience in the life cycle of your solutions."
+        },
+        {
+          "paragraph": "Our main focus is the Salesforce ecosystem, the #1 CRM on the market. Currently, several companies have been adopting the various clouds of this platform, increasing the demand for professionals trained in the customization and maintenance of Orgs."
+        }
+      ]
+    },
+    "expertise": {
+      "title": "Expertise",
+      "text": [
+        {
+          "paragraph": "With more than 20 years of expertise from our founders, we have experience in developing and maintaining systems in different market segments, such as:",
+          "list": [
+            "Banks e Fintechs;",
+            "E-commerce;",
+            "Clothing;",
+            "Restaurant;",
+            "Telephony;",
+            "Football players association;",
+            "Fleet tracking and management;",
+            "Affiliate programs;"
+          ]
+        },
+        {
+          "paragraph": "The diversification of partners and customers adds to DS4 Tech's domain in several modern technologies present in small and large companies, such as cloud computing and Salesforce, making it competitive in different sizes of business segment."
+        },
+        {
+          "paragraph": "Another expertise is in cloud development with a focus on AWS to meet the recurring demands of our customers."
+        },
+        {
+          "paragraph": "As a way of maintaining a high level of quality, some highly qualified in software tests, such as functional, security and performance tests. These expertises keep us qualified to serve leaders from the most diverse segments."
+        }
+      ]
+    },
+    "portifolio": {
+      "title": "Portfolio",
+      "works": {
+        "salesforce": {
+          "title": "Salesforce Journey",
+          "text": "Since 2020, we have been leading the Salesforce Journey, a YouTube channel created to share our knowledge on this platform. We create content with the aim of learning more and more and disseminating features of the number 1 CRM on the market."
+        },
+        "flux": {
+          "title": "Flux",
+          "text": "Flux is a modern and simplified system for restaurants, 100% online. It has product management, payments, withdrawals, cash front and reports, focusing on sales and billing. Product developed by DS4 Tech in operation since 2018.",
+          "title_img": ["Listing", "Insert/Edit", "Report", "Dashboard"]
+        }
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "formItens":{
+        "name": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "message": "Message",
+        "button": "Contact us",
+        "required": "Required"
+      },
+      "infoContact": ""
+    }
+  }
+}

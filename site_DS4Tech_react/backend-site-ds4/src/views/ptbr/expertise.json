@@ -1,0 +1,27 @@
+{
+  "title": "Expertise",
+  "text" : [
+    {
+      "paragraph": "Com mais de 20 anos de expertise dos nossos fundadores, temos experiência em desenvolvimento e manutenção de sistemas em diferentes segmentos de mercado, como:",
+      "list" : [
+        "Bancos e Fintechs;",
+        "E-commerce;",
+        "Vestuário;",
+        "Restaurante;",
+        "Telefonia;",
+        "Associação de jogadores de futebol;",
+        "Rastreamento e gestão de frota;",
+        "Programas de afiliados;"
+      ]
+    },
+    {
+      "paragraph": "A diversificação de parceiros e clientes agrega para a DS4 Tech domínio em diversas tecnologias modernas presentes em pequenas e grandes empresas, como computação na nuvem e Salesforce, tornando-a competitiva em diferentes tamanhos de segmento de negócios."
+    },
+    {
+      "paragraph": "Outra expertise é em desenvolvimento para nuvem com foco em AWS para atender as demandas recorrentes de nossos clientes."
+    },
+    {
+      "paragraph": "Como forma de manter alto nível de qualidade some altamente qualificados em testes de software, como testes funcionais, de segurança e performance. Essas expertises nos mantem capacitados para atender lideres dos mais diversos segmentos."
+    }
+  ]
+}
