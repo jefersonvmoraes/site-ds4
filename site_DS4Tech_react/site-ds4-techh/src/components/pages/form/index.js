@@ -1,6 +1,7 @@
 import React,{useContext, useEffect, useState} from "react";
 import { LangContext } from "../../../contexts/LangContext";
 import getInfos from "../../../utils/getInfos";
+import { postForm } from "../../../utils/postForm";
 import './index.css';
 
 
@@ -34,6 +35,7 @@ const Form = () => {
 
   const handleSubmit = (event) => {
     console.log(fields)
+    postForm(fields)
     setPopup(openPopup)
     event.preventDefault()
   }
