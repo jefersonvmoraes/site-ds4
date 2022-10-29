@@ -1,0 +1,12 @@
+{
+  "title": "Contact",
+  "formItens": {
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message",
+    "requerid": "requerid",
+    "button": "Contact us",
+    "textPopup": "thanks for getting in touch, we'll get back to you soon"
+  }
+}

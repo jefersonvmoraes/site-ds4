@@ -9,7 +9,6 @@ const FormScreen = () => {
       <Form/>
       <InfoContact/>
     </>
-
   )
 };
 

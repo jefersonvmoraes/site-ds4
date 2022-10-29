@@ -33,7 +33,7 @@ const Expertisie = () =>{
           {
             infos.text.map((item,index)=>( 
               <>
-                <p key={index}className="text-left mt-3">
+                <p key={index} className="text-left mt-3">
                   {item.paragraph}
                 </p>
                 {item.list ? <Lista list={item.list}/> : null}
